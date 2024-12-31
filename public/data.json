@@ -1,0 +1,134 @@
+[
+      {
+        "id": 1,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5OAKVkw48LmP6NA2q9t6mwPZvTxw7W2wBQ&usqp=CAU",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#adc7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": " A health donation involves contributing funds, resources, or expertise to support healthcare initiatives. Donations can include financial contributions, medical supplies, volunteer time, research grants, and community health programs. These contributions are crucial for improving healthcare access, advancing medical research, and addressing healthcare disparities. Health donations make a significant impact on the well-being of individuals and communities.",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "picture": "https://resilienteducator.com/wp-content/uploads/2017/11/8-17HCCUP0258-Blog-Image-Inclusion-1.jpg",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ffc3c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Education donations refer to contributions made to support educational initiatives, institutions, or individuals seeking to further their education. These donations can take various forms, including financial support for schools and scholarships, donations of educational resources, and the provision of mentorship and expertise. Such contributions play a vital role in expanding educational opportunities, empowering future generations, and fostering academic excellence. Education donations contribute to the development of skilled and knowledgeable individuals, which ultimately strengthens communities and societies as a whole.",
+        "price": 300
+      },
+      {
+        "id": 3,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFomU5jO0rA92odHRE2WReeGm-0r_I0QMqbw&usqp=CAU",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#d4eac1",
+        "card_bg": "#ebf5e2",
+        "text_button_bg": "#79c23f",
+        "description": "Clothing donations involve giving gently used or new clothing items to individuals or organizations in need. These contributions can include clothing for all ages, such as clothing for adults, children, and infants, as well as outerwear and accessories. Clothing donations help provide warmth, protection, and dignity to those facing economic hardship or disaster situations. By giving clothing items that are no longer needed, individuals and communities can make a meaningful difference in the lives of others while promoting sustainability through reuse and recycling.",
+        "price": 270
+      },
+      {
+        "id": 4,
+        "picture": "https://npr.brightspotcdn.com/dims4/default/06a3eb5/2147483647/strip/true/crop/3000x2000+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2F5b%2Fcc7cc0b042b7b54623e657545f78%2Fgettyimages-1286048476x.jpg",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#fcd1c3",
+        "card_bg": "#fde9e3",
+        "text_button_bg": "#f87147",
+        "description": "Food donations are acts of providing food items to individuals or organizations facing hunger or food insecurity. These donations can include non-perishable items like canned goods, grains, and packaged foods, as well as fresh produce and perishable items. Food donations are a crucial lifeline for vulnerable populations, helping to alleviate hunger and malnutrition. They also support food banks, shelters, and community programs in their mission to provide nourishment to those in need. By contributing to food donations, individuals and communities can make a direct and positive impact on food security and the well-being of others.",
+        "price": 300
+      },
+      {
+        "id": 5,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgFqyr9SHg5eyoLtN6wsRId1TfS8h94jCvg&usqp=CAU",
+        "title": "Food for All Initiative",
+        "category": "Food",
+        "category_bg": "#fcd1c3",
+        "card_bg": "#fde9e3",
+        "text_button_bg": "#f87147",
+        "description": "Food donations involve providing essential food items to individuals or organizations in need. These contributions include non-perishable items like canned goods, grains, and fresh produce, helping alleviate hunger and food insecurity among vulnerable populations. Food donations support food banks, shelters, and community programs in their mission to provide sustenance to those facing economic hardship. By donating food, individuals and communities make a direct impact on food security and contribute to ensuring that everyone has access to nutritious meals, fostering stronger and more resilient communities.",
+        "price": 250
+      },
+      {
+        "id": 6,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxp2XeGHcS4xdnzc3dJLKInXpEDk1JO6_0Eg&usqp=CAU",
+        "title": "Dress for Success: Donate Clothing",
+        "category": "Clothing",
+        "category_bg": "#d4eac1",
+        "card_bg": "#ebf5e2",
+        "text_button_bg": "#79c23f",
+        "description": "Clothing donations refer to the act of giving gently used or new clothing items to those in need or charitable organizations. These contributions help individuals and communities access essential clothing, including clothing for adults, children, and infants, as well as outerwear and accessories. Clothing donations provide warmth, protection, and dignity to those facing economic challenges or disasters. By donating clothing, individuals contribute to the well-being and self-esteem of recipients while promoting sustainability through recycling and reusing clothing resources. These acts of generosity support vulnerable populations and strengthen the fabric of communities.",
+        "price": 300
+      },
+      {
+        "id": 7,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVsnjLjQmCvsIhW1Qx17mQ86kyx_GBs6p0w&usqp=CAU",
+        "title": "Empowering Education Through Giving",
+        "category": "Education",
+        "category_bg": "#ffc3c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Education donations involve providing resources, funds, or support to educational initiatives, institutions, or individuals seeking to further their learning. These contributions can include scholarships, educational materials, mentorship, and financial aid, making education more accessible and equitable. Education donations play a pivotal role in empowering individuals to acquire knowledge and skills, ultimately fostering personal growth and community development. By giving to education, donors contribute to a brighter future, where opportunities for learning and personal advancement are accessible to all, regardless of socioeconomic backgrounds. These contributions are investments in human potential and societal progress.",
+        "price": 350
+      },
+      {
+        "id": 8,
+        "picture": "https://img.freepik.com/free-photo/charity-boxes-being-prepared-donation_23-2148613130.jpg?w=2000",
+        "title": "Healthcare Giving Initiative",
+        "category": "Health",
+        "category_bg": "#adc7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": "(Health donation) or (healthcare donation) refers to the act of providing financial resources, medical supplies, or volunteer services to support healthcare initiatives and organizations. These contributions are essential for expanding access to quality healthcare, funding medical research, and improving the overall well-being of communities. Health donations can range from funding medical equipment in hospitals to supporting health education programs in underserved areas. By donating to healthcare causes, individuals and organizations play a vital role in addressing healthcare disparities and ensuring that everyone has the opportunity to lead a healthier life.",
+        "price": 299
+      },
+      {
+        "id": 9,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0tXfLDXQZ8Wkuq78k5itHPeuBmxIxzoI-CLvBnHWYHU7qoYPLwt2ChYxEoQcw8W-y30&usqp=CAU",
+        "title": "Healthcare Donations for Wellness",
+        "category": "Health",
+        "category_bg": "#adc7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": "Health donations encompass contributions of financial resources, medical supplies, or volunteer efforts to support healthcare initiatives and organizations. These donations are pivotal for expanding access to quality healthcare, advancing medical research, and enhancing overall community well-being. Whether funding life-saving equipment or aiding underserved populations, health donations directly impact the provision of medical care and public health programs. By participating in health donations, individuals and organizations play a crucial role in addressing healthcare disparities, ensuring that everyone has a chance at a healthier, more fulfilling life. These acts of generosity promote a healthier and more equitable society for all.",
+        "price": 230
+      },
+      {
+        "id": 10,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXScdwfv3oSQQ9U0_bFjpbyjAVgkhxB_RJ_xxlQrOh8sFntcedbG5l-Jh58TqYtUTH10&usqp=CAU",
+        "title": "Empower Learning Through Giving",
+        "category": "Education",
+        "category_bg": "#ffc3c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Education donations involve providing financial support, resources, or opportunities to enhance learning experiences for individuals, institutions, or communities. These contributions can include scholarships, educational materials, mentorship programs, and infrastructure development, promoting equal access to quality education. Education donations play a pivotal role in empowering individuals to acquire knowledge and skills, fostering personal growth and socio-economic development. By donating to education, individuals and organizations invest in a brighter future where education is a catalyst for personal achievement and societal progress, breaking down barriers and creating opportunities for all. These contributions are instrumental in building a more educated and equitable world.",
+        "price": 370
+      },
+      {
+        "id": 11,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-piuk9SIJ4KnXWpbZSscuBldZiQkywCyNQ&usqp=CAU",
+        "title": "Clothing for a Cause",
+        "category": "Clothing",
+        "category_bg": "#d4eac1",
+        "card_bg": "#ebf5e2",
+        "text_button_bg": "#79c23f",
+        "description": "Clothing donations involve the act of contributing gently used or new clothing items to individuals or charitable organizations. These donations provide essential attire for people of all ages and backgrounds, offering warmth, dignity, and protection, particularly for those facing economic hardship or disasters. By donating clothing, individuals and communities directly impact the well-being of recipients while promoting sustainability through recycling and reusing clothing resources. These acts of generosity strengthen communities, address clothing needs, and contribute to a more equitable and compassionate society. Clothing donations are a tangible way to make a positive difference in the lives of others.",
+        "price": 340
+      },
+      {
+        "id": 12,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfj94dA6PIwF6VQ7yc2eSAuO2PAMlTnTDkqQ&usqp=CAU ",
+        "title": "Nourishing Communities Through Giving",
+        "category": "Food",
+        "category_bg": "#fcd1c3",
+        "card_bg": "#fde9e3",
+        "text_button_bg": "#f87147",
+        "description": "Food donations involve the generous act of providing essential food items to individuals or charitable organizations. These contributions include non-perishable items, fresh produce, and other nutritious foodstuffs, serving as a lifeline for those experiencing hunger and food insecurity. Food donations support food banks, shelters, and community programs, enabling them to provide sustenance to vulnerable populations. By donating food, individuals and communities directly alleviate hunger, promote well-being, and foster stronger and more resilient communities. These acts of kindness help ensure that everyone has access to nutritious meals, contributing to a healthier and more compassionate society.",
+        "price": 400
+      }
+ ]
